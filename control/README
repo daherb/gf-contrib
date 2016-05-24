@@ -1,0 +1,6 @@
+A small application grammar for teaching purposes.
+The idea is something like natural language commands
+for a kind of robot or similar.
+The general control grammar can generate semantically
+wrong sentences like "open the light" while the limit
+grammar only allows sentences under given constraints.
